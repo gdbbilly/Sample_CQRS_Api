@@ -9,3 +9,11 @@
 /Sample.CQRS.Infrastructure/obj
 /Sample.CQRS.Tests.Integration/obj
 /Sample.CQRS.Tests.Unit/obj
+/Sample.CQRS.Api/bin/Debug/net5.0
+/Sample.CQRS.Application/bin/Debug/net5.0
+/Sample.CQRS.Domain/bin/Debug/net5.0/ref/Sample.CQRS.Domain.dll
+/Sample.CQRS.Domain/bin/Debug/net5.0
+/Sample.CQRS.Infrastructure/bin/Debug/net5.0
+/Sample.CQRS.Tests.Integration/bin/Debug/net5.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Sample.CQRS.Tests.Integration/bin/Debug/net5.0
+/Sample.CQRS.Tests.Unit/bin/Debug/net5.0
